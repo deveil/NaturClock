@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9900</color>
+    <color name="colorPrimaryDark">#F57D00</color>
+    <color name="colorAccent">#0066FF</color>
+    <color name="colorSecondary">#0066FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="translucent_grey">#4D000000</color>
+    <color name="toggleButtonBg">#ff9900</color>
+    <color name="textColor">#808080</color>
+</resources>
